@@ -8,7 +8,8 @@
 
 - 🔭 I’m currently working on [Image Editing website](https://onetwofourimage.onrender.com)
 
-- 🌱 I’m currently learning **Flask, SQL**
+- 🌱 I’m have learn **Flask, SQL**, Numpy, **Pandas, Seaborn**, Matplotlib
+- 🌱 Currently I am learning Exploratory Data Analysis(EDA)
 
 - 👯 I’m looking to collaborate on [Mini Calculator](https://minicalculator.onrender.com)
 
