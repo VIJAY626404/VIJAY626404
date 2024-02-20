@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Mini Calculator](https://minicalculator.onrender.com)
 
-- 🤝 I’m looking for help with [My CV]((https://vijay626404.github.io/vijaycv/))
+- 🤝 I’m looking for help with [My CV]( https://vijay626404.github.io/vijaycv/)
 
 - 📫 How to reach me **vijaykumarshah1942@gmail.com**
 
