@@ -7,10 +7,11 @@ I am passionate about data analysis and problem-solving, with over **450 LeetCod
 💡 I love turning raw data into actionable insights and helping organizations make data-driven decisions.
 
 ## 💼 Skills:
-- Programming: Python, C++, SQL
-- Data Tools: Excel, Power BI, Numpy, Pandas
-- Visualization: Matplotlib, Seaborn
-- Databases: MySQL, SQLite
+- Programming: Python, C++
+- Libraries: Scikit-learn, Tensorflow, Pytorch, Keras, Flask, Streamlit
+- Data Tools: Excel, Numpy, Pandas, Matplotlib, Seaborn
+- Visualization: Power BI
+- Databases: MySQL, SQLite, MongoDB
 
 📫 **Let’s Connect**:  
 [LinkedIn](https://www.linkedin.com/in/vijay626404) | [GitHub](https://github.com/VIJAY626404)
