@@ -1,6 +1,6 @@
 # Hi, I'm Vijay Kumar Shah 👋
 
-🚀 ** | Aspiring Data Scientist | Data Analyst | Business Analyst**
+🚀 **| Aspiring Data Scientist | Data Analyst | Business Analyst**
 
 I am passionate about data analysis and problem-solving, with over **450 LeetCode problems** solved. Skilled in **Python**, **C++**, **SQL**, and **Excel**, I excel in **data manipulation**, **exploratory data analysis (EDA)**, and **data visualization** using tools like **Power BI**, **Numpy**, **Pandas**, **Matplotlib**, and **Seaborn**, **Machine Learning**.
 
