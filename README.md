@@ -8,8 +8,8 @@ I am passionate about data analysis and problem-solving, with over **450 LeetCod
 
 ## 💼 Skills:
 - Programming: Python, C++
-- Libraries: Scikit-learn, Tensorflow, Pytorch, Keras, Flask, Streamlit
-- Data Tools: Excel, Numpy, Pandas, Matplotlib, Seaborn
+- Libraries: Scikit-learn, Tensorflow, Pytorch, Keras, Flask, Streamlit, Numpy, Pandas, Matplotlib, Seaborn
+- Data Tools: Jupiter Notebook, VS Code
 - Visualization: Power BI
 - Databases: MySQL, SQLite, MongoDB
 
